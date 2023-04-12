@@ -2,4 +2,4 @@
 
 - Programa servidor java de chat usando datagrama.
 - Permite receber a conexão de somente de N clientes.
-- Use o repositório "chat_gui_cliente_datagrama" como o programa cliente.
+- Use o repositório "datagrama_cliente_chat_gui" como o programa cliente.
